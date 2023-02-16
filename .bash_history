@@ -32,3 +32,26 @@ sudo chmod 766 basicsript.sh
 sudo chmod 766 basicscript.sh
 ls -la
 ./basicscript.sh
+ls
+vim script.sh
+chmod 766 script.sh
+./script.sh
+vim script.sh
+./script.sh
+sudo apt-get instal git
+sudo apt-get install git
+sudo apt update
+git init
+git config --global user.name 
+git config --global user.name "sayali"
+git config --global email.name "sayalijadhav8931@gmail.com"
+git status
+git add .
+git status
+git remote add origin
+git push origin master
+git remote add origin https://github.com/sayalijadhav8931/sayali.git
+git push origin master
+git commit -m
+git commit -m "hii"
+git push origin master
